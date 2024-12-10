@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/My_Page.qml">D:/SwipeView/qml/My_Page.qml</file>
+  </qresource>
+</RCC>
+
